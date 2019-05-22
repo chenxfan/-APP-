@@ -1,0 +1,70 @@
+/**
+ *  @内部账户管理-人员管理样式
+ */
+/**
+ *  @内部账户管理-人员管理样式
+ */
+
+.DateRange{
+    display: inline;
+}
+.inpppp{
+    margin-top: -8px !important;
+}
+.inpppp span div{
+     width: 180px !important;
+ }
+.inpppp span div input{
+    width: 180px !important;
+}
+.write{
+    width: 30px!important;
+    display: inline-block!important;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    width: 400px;
+    height:300px;
+
+}
+.title{
+    color: gray;
+    height: 30px;
+    line-height: 40px;
+}
+.box input{
+    margin-top: 30px;
+    font-size: 14px;
+    margin-left: 10px;
+    border: 1px solid gainsboro;
+}
+.box select{
+    margin-top: 20px;
+    font-size: 14px;
+    margin-left: 10px;
+}
+.inputbox{
+    width: 400px;
+    height: 220px;
+    padding: 0px 10px;
+}
+.inputbox .item{
+    width: 100px;
+    height: 20px;
+    text-align: right;
+    display: inline-block;
+    color: gray;
+    font-size: 14px;
+}
+.button1{
+    width: 84px;
+    height: 32px;
+    border: 1px solid gainsboro;
+    background-color: white;
+    border-radius:3px ;
+    margin-top: -20px;
+    margin-left: 45px;
+}

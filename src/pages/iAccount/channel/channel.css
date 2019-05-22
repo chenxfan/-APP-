@@ -1,0 +1,74 @@
+/**
+ *  @内部账户管理-频道子账号管理样式
+ */
+
+/*面包屑*/
+.map{
+    margin-top: 30px;
+}
+.bar_searchRow{
+    display: flex;
+    height: 120px;
+    align-items: center;
+}
+.searchBox{
+    display: flex;
+    margin-left: 20px;
+}
+.searchBox span{
+    display: flex;
+    align-items: center;
+}
+.inputRow{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.inputHeight{
+    margin: 20px 0;
+}
+.fileInfo{
+    margin-top: -10px;
+}
+.inputRow:nth-of-type(1){
+    margin-top: 0;
+}
+.inputRow i{
+    width: 20%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.inputTitle{
+    font-weight: 500;
+}
+.inputRow input{
+    width: 75%;
+}
+.imgFile{
+    align-items: self-start;
+}
+.inputRow .fileBox{
+    /*margin-left: 0;*/
+    width: 75%;
+}
+.deatilInfo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ant-checkbox input{
+    width: 20px;
+    height: 20px;
+}
+.bannerState{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.bannerState p{
+    width: 20%;
+}
+.bannerState div{
+    width: 75%;
+}

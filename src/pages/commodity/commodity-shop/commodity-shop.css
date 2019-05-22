@@ -1,0 +1,56 @@
+/**
+ *  @商品管理样式
+ */
+
+.C_table {
+    margin: 0 auto;
+    width: 95%;
+
+    text-align: center;
+}
+.C_header {
+    margin: 0 auto;
+    width: 95%;
+}
+.checkinput{
+    text-indent: 10px;
+}
+.checksubmit{
+    cursor: pointer;
+}
+.C_adduser{
+    width: 120px;
+    height: 32px;
+    color: rgba(0, 0, 0, 0.65);
+    font-size: 14px;
+    line-height: 30px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(217, 217, 217);
+    border-radius: 5px;
+    text-align: center;
+}
+
+/*AddShop 样式*/
+
+.ant-input {
+    width: 300px;
+    margin: 10px 8px 8px 10px;
+
+}
+.M_shop{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    margin-left: 20px;
+}
+.upload{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.btn{
+    margin-left: 20px;
+}
+.nav{
+    cursor: pointer;
+}

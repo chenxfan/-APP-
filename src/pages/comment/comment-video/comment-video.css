@@ -1,0 +1,58 @@
+/**
+ *   @ 视频评论详情管理页样式
+ */
+.showContent{
+    background-color: rgb(240,242,245);
+}
+.bigTitle{
+    margin-right:20px;
+    margin-top:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    background-color: rgb(255,255,255);
+    border-radius: 5px;
+}
+.bigTitle .minTitle{
+    width: 33.333%;
+    text-align: center;
+    overflow: hidden;
+    height: 50px;
+}
+.line{
+    border-right:1px solid rgb(233,233,233)
+}
+.bigTitle .minTitle div:nth-of-type(1){
+    color: rgb(141,141,141);
+}
+.bigTitle .minTitle div:nth-of-type(2){
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+}
+/*品论列表*/
+.comList{
+    margin-top: 20px;
+    background-color: rgb(255,255,255);
+    border-radius: 3px;
+}
+.comList_title{
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.comList_title div:nth-of-type(1){
+    margin-left: 20px;
+}
+
+.comList_search{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 70px;
+}
+.comList_search div{
+    margin: 0 10px;
+}

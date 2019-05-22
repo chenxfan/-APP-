@@ -1,0 +1,112 @@
+
+.InteractiveTop{
+    width: 100%;
+}
+.InteractiveNav{
+    width: 100% ;
+    height: 40px;
+    line-height: 40px;
+    font-size: 1.2rem;
+    padding-left: 40px;
+}
+.InteractiveTop div{
+    width: 100%;
+    height: 60px;
+    margin: 10px 30px;
+}
+.InteractiveTopone span {
+    margin: 0 20px;
+}
+.InteractiveToponeRadio{
+    border-radius: 5px ;
+}
+.InteractiveBouttom{
+    width: 100%;
+    height: 50px;
+    margin: 30px;
+    padding-left: 50px;
+}
+.InteractiveBouttomk {
+    margin-right: 30px;
+}
+.InteractiveContent{
+    width: 100%;
+    height: 540px;
+    margin: 0 auto;
+
+}
+.InteractiveContentherder{
+    width: 100%;
+    height: 60px;
+    font-size: 1.5rem;
+    padding-left: 40px;
+    font-weight: 600;
+}
+.InteractiveContentherdert{
+    width: 100%;
+    height: 470px;
+    margin: 0 auto;
+}
+.InteractiveLeftt{
+    width: 60% ;
+    height: 300px;
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+.InteractiveLeftt div{
+    width: 50%;
+    height: 300px;
+}
+.InteractiveLeftt div p{
+    margin: 25px 40px;
+}
+.InteractiveLeftt div p span{
+    margin: 0 10px;
+}
+.InteractiveRightt{
+    width: 28%;
+    height: 300px;
+    float: left;
+    text-align: center;
+    line-height: 300px;
+    font-size:60px ; 
+}
+.InteractiveButtow{
+    width: 100% ;
+    height: 170px;
+    margin: 20px auto;
+    padding-left: 30px;
+    display:inline-block;
+}
+.InteractiveButtow p span{
+    margin: 0 20px ;
+}
+.InteractiveFoter{
+    width: 100%;
+    height: 470px ;
+    margin: 0 auto;
+}
+.InteractiveFoterHeader{
+    width: 90%;
+    height: 60px;
+    font-size: 1.5rem;
+    padding-left: 40px;
+    font-weight: 600;
+    border-bottom: 1px solid rgb(209, 209, 209);
+    margin-bottom: 20px;
+}
+.InteractiveFoterButton{
+    width: 90%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.InteractiveFoterButton button{
+    width: 50%;
+    height: 40px;
+    border-bottom: 1px solid white;
+}
+.ant-table-wrapper{
+    width: 90%;
+}

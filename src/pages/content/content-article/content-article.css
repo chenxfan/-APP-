@@ -1,0 +1,41 @@
+/**
+ *  @文章内容管理样式
+ */
+.colStyle{
+	min-width: 800px;
+	background-color: 240,242,245;
+	width: 100%;
+	overflow: hidden;
+	display: absolute;
+	margin-left: 20px;
+}
+.content{
+	margin-top: 13px;
+	background-color: #FFFFFF;
+}
+
+.search{
+	margin-top:25px ;
+	width: 60%;
+}
+
+.rowStyle{
+	margin: 35px 35px 0 35px;
+}
+.box{
+	border: solid 1px darkgray;
+}
+.my-component{
+	border: solid 1px gray;
+}
+
+.span{
+	float: right;
+    margin-right: 50px;
+}
+.pages{
+	padding-right: 28%;
+	margin-top: 35px;
+	float:right;
+}
+

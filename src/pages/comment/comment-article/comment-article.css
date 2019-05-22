@@ -1,0 +1,13 @@
+/**
+ *   @ 视频评论详情管理页样式
+ */
+.showContent{
+    background-color: rgb(240,242,245);
+}
+.bigTitle{
+    display: flex;
+    justify-content: space-between;
+}
+.bigTitle div{
+    width: 33%;
+}
